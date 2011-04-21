@@ -1,0 +1,48 @@
+NYU iPhone Spring 2011 Git Lecture
+====
+
+**Education Accounts**
+https://github.com/edu
+
+---
+
+**Basic Usage**
+First you'll need to install git.
+http://git-scm.com
+
+After you install git, go to [github](http://github.com) and sign up for an account if you don't have one already. You will also have to follow the instructions and setup your SSH key.
+
+http://help.github.com/
+
+---
+
+**Create your first repo, follow the instructions.**
+http://help.github.com/create-a-repo/
+
+     $ git init
+     $ touch README
+     $ git add .
+     $ git commit -m "first commit, adding readme"
+     $ git push origin master
+
+---
+
+**General Usage**
+
+     $ git add .
+     $ git commit -m "some commit message"
+     $ git push origin master
+
+---
+
+**Alternative Commands**
+
+     $ git status
+     $ git branch
+     $ git branch develop
+     $ git checkout develop
+
+**Other Links**
+[Git Cheatsheet](http://cheat.errtheblog.com/s/git)
+[Git Tower](http://git-tower.com)
+[GitX](http://gitx.frim.nl)
