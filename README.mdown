@@ -43,8 +43,6 @@ http://help.github.com/create-a-repo/
      $ git checkout develop
 
 **Other Links**
-[Git Cheatsheet](http://cheat.errtheblog.com/s/git)
-
-[Git Tower](http://git-tower.com)
-
-[GitX](http://gitx.frim.nl)
+* [Git Cheatsheet](http://cheat.errtheblog.com/s/git)
+* [Git Tower](http://git-tower.com)
+* [GitX](http://gitx.frim.nl)
