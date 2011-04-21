@@ -44,5 +44,7 @@ http://help.github.com/create-a-repo/
 
 **Other Links**
 [Git Cheatsheet](http://cheat.errtheblog.com/s/git)
+
 [Git Tower](http://git-tower.com)
+
 [GitX](http://gitx.frim.nl)
